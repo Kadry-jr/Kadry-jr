@@ -8,9 +8,6 @@
 
 📫 You can reach me via email at bedokadry5@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/abdel-rahman-kadry).
 
-😄 Pronouns: He/Him.
-
-⚡ Fun fact: I'm also passionate about Gaming and love capturing moments in nature.
 
 <!---
 Kadry-jr/Kadry-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
