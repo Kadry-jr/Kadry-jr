@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bedokadry5@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MGo5nLmoTIcnR2OuTzF2WdQHg9FPyw44/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1MGo5nLmoTIcnR2OuTzF2WdQHg9FPyw44/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
