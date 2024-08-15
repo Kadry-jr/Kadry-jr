@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdelrahman Kadry</h1>
-<h3 align="center">Data science, Artificial Intelligence, and Machine learning Student</h3>
+<h3 align="center">Data science, Artificial Intelligence Student</h3>
 
-- 🌱 I’m currently learning **machine learning algorithms, data visualization techniques, and natural language processing.**
+- 🌱 I’m currently learning **machine and deep learning algorithms, data visualization techniques, and natural language processing.**
 
 - 📫 How to reach me **bedokadry5@gmail.com**
 
