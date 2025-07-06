@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine and deep learning algorithms, data visualization techniques, and natural language processing.**
 
-- 📫 How to reach me **bedokadry5@gmail.com**
+- 📫 How to reach me **abdelrahmankadry8@gmail.com**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1yu9_goGGjnG50yoNUpzqTgthgcSmONoY/view?usp=sharing)
 
